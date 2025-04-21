@@ -183,7 +183,7 @@ def main():
     with tabs[2]:
         st.subheader("📘 About Whispr")
         st.markdown("""
-        **Whispr** is a simple tool to embed and extract secret messages in images using the **Discrete Cosine Transform (DCT)** method.
+        **Invisper** is a simple tool to embed and extract secret messages in images using the **Discrete Cosine Transform (DCT)** method.
 
         ---
         ### 🔍 Why DCT?
