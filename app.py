@@ -181,7 +181,7 @@ def main():
                         st.error(f"❌ Error: {str(e)}")
     
     with tabs[2]:
-        st.subheader("📘 About Whispr")
+        st.subheader("📘 About Invisper")
         st.markdown("""
         **Invisper** is a simple tool to embed and extract secret messages in images using the **Discrete Cosine Transform (DCT)** method.
 
