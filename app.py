@@ -7,7 +7,7 @@ import io
 from utils import embed_message, extract_message
 
 def main():
-    st.set_page_config(page_title="Whispr", page_icon="🔐", layout="wide")
+    st.set_page_config(page_title="Invisper", page_icon="🔐", layout="wide")
     
     st.markdown("""
     <style>
