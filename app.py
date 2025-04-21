@@ -79,7 +79,7 @@ def main():
     </style>
     """, unsafe_allow_html=True)
     
-    st.markdown("<h1 class='centered-title'>Steganography</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 class='centered-title'>Invisper</h1>", unsafe_allow_html=True)
     st.markdown("<h4 class='centered-title'>Hide secret messages inside images using DCT Steganography</h4>", unsafe_allow_html=True)
     
     tabs = st.tabs(["Encode message", "Decode message", "About"])
